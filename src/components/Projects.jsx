@@ -23,6 +23,14 @@ const Projects = () => {
                 <span className="font-semibold">Technologies:</span> HTML, CSS,
                 JavaScript, Bootstrap, MySQL, PHP
               </li>
+              <li className="text-xl">
+                <a
+                  href="" // Replace with your actual project link
+                  className="font-semibold text-blue-600 hover:underline ml-1"
+                >
+                  View Project
+                </a>
+              </li>
             </ul>
           </li>
           <li className="text-2xl my-2 text-start md:mr-0">
@@ -43,6 +51,14 @@ const Projects = () => {
                 <span className="font-semibold">Technologies:</span>HTML, CSS,
                 JavaScript, Tailwind CSS, React , PHP and MYSQL.
               </li>
+              <li className="text-xl">
+                <a
+                  href="https://ruchika-khairkar-portfolio.vercel.app/" // Replace with your actual project link
+                  className="font-semibold text-blue-600 hover:underline ml-1"
+                >
+                  View Project
+                </a>
+              </li>
             </ul>
           </li>
           <li className="text-2xl my-2 text-start md:mr-0">
@@ -60,6 +76,14 @@ const Projects = () => {
               <li className="text-xl">
                 <span className="font-semibold">Technologies:</span> HTML, CSS,
                 jQuery
+              </li>
+              <li className="text-xl">
+                <a
+                  href="https://registration-form-drab.vercel.app/" // Replace with your actual project link
+                  className="font-semibold text-blue-600 hover:underline ml-1"
+                >
+                  View Project
+                </a>
               </li>
             </ul>
           </li>
