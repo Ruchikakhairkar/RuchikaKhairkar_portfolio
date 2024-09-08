@@ -37,15 +37,19 @@ const Education = () => {
                 </li>
                 <li className="text-xl">
                   <p>
-                    Learned Basics of C++, STL, Data Structures, and Algorithms.
+                    {/* Learned Basics of C++, STL, Data Structures, and Algorithms. */}
+                    I learned the basics of C++, STL, Data Structures, and
+                    Algorithms, along with frontend and backend development
+                    using HTML, CSS, Tailwind CSS, JavaScript, React, PHP and
+                    MySQL.
                   </p>
                 </li>
-                <li className="text-xl">
+                {/* <li className="text-xl">
                   <p>
                     Learning Codeigniter MVC pattern (Model View and
                     Controllers), Routes, and rendering views.
                   </p>
-                </li>
+                </li> */}
                 <li className="text-xl">
                   <p>Core PHP with CRUD operations and projects.</p>
                 </li>

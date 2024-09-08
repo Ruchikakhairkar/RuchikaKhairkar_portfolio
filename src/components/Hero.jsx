@@ -43,7 +43,7 @@ const Hero = ({ theme }) => {
             </div>
           </div>
         </div>
-        <div className="md:ml-40 ml-10 mt-0 animate-fadeIn">
+        <div className="md:ml-40 ml-10 animate-fadeIn">
           <img src={ruchikaImage} alt="Ruchika Khairkar" />
         </div>
       </div>
