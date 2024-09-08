@@ -2,11 +2,10 @@ import React from "react";
 
 const Footer = ({ theme }) => {
   const footerStyle = {
-    backgroundColor: theme === "light" ? "#ebfaf7" : "#000000", // Background color for light and dark modes
-    color: theme === "light" ? "#000000" : "#ffffff", // Text color for light and dark modes
+    backgroundColor: theme === "light" ? "#ebfaf7" : "#000000",
+    color: theme === "light" ? "#000000" : "#ffffff",
   };
 
-  // FontAwesome icons' color based on theme
   const iconColor = theme === "light" ? "#000000" : "#ffffff";
 
   return (

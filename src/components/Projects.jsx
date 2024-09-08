@@ -53,7 +53,7 @@ const Projects = () => {
               </li>
               <li className="text-xl">
                 <a
-                  href="https://ruchika-khairkar-portfolio.vercel.app/" // Replace with your actual project link
+                  href="https://ruchika-khairkar-portfolio.vercel.app/"
                   className="font-semibold text-blue-600 hover:underline ml-1"
                 >
                   View Project
@@ -79,7 +79,7 @@ const Projects = () => {
               </li>
               <li className="text-xl">
                 <a
-                  href="https://registration-form-drab.vercel.app/" // Replace with your actual project link
+                  href="https://registration-form-drab.vercel.app/"
                   className="font-semibold text-blue-600 hover:underline ml-1"
                 >
                   View Project

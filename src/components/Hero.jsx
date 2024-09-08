@@ -3,10 +3,9 @@ import ruchikaImage from "../assets/ruchkaa.png";
 import ruchikaresume from "../assets/ruchikaresume.pdf";
 
 const Hero = ({ theme }) => {
-  // Define styles based on the theme
   const heroStyle = {
-    backgroundColor: theme === "light" ? "#ebfaf7" : "#000000", // Light or dark mode background
-    color: theme === "light" ? "#000000" : "#ffffff", // Light or dark mode text color
+    backgroundColor: theme === "light" ? "#ebfaf7" : "#000000",
+    color: theme === "light" ? "#000000" : "#ffffff",
   };
 
   return (
@@ -19,8 +18,8 @@ const Hero = ({ theme }) => {
             a <span className="text-blue">web developer</span>
           </h2>
           <p className="mt-4">
-            Hey, are you looking for a developer to build your brand and grow
-            your business? Let's shake hands with me.
+            Are you looking for a developer to build your brand and grow your
+            business? Let's shake hands with me.
           </p>
 
           <div className="mt-4 md:flex text-center md:space-x-3">
