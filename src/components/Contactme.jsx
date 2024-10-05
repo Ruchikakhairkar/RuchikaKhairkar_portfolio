@@ -96,8 +96,8 @@ const Contactme = () => {
                     method="post"
                     className="space-y-4"
                   >
-                    <div className="md:flex space-x-4">
-                      <div className="md:w-1/2">
+                    <div className="md:flex md:space-x-4 space-y-4 md:space-y-0">
+                      <div className="md:w-1/2 w-full">
                         <label
                           htmlFor="name"
                           className="block text-sm font-medium text-gray-700"
@@ -117,7 +117,7 @@ const Contactme = () => {
                           <p className="text-red-500">{errors.name}</p>
                         )}
                       </div>
-                      <div className="md:w-1/2">
+                      <div className="md:w-1/2 w-full">
                         <label
                           htmlFor="email"
                           className="block text-sm font-medium text-gray-700"

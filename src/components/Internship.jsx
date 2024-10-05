@@ -16,14 +16,16 @@ const Internship = () => {
             />
           </div>
           <div className="justify-self-auto">
-            Previously, I worked as a WordPress Developer at Tecnovibes Digital
-            Services Pvt. Ltd., where my focus was on software development.
-            Specifically, I worked with WordPress, a popular content management
-            system, to create and manage websites. My role involved using my
-            expertise in web development and WordPress to build dynamic and
-            responsive websites that met clients' needs and expectations. I
-            enjoyed the challenges of problem-solving and creativity that came
-            with developing unique and effective WordPress solutions.
+            During my 6-month web developer internship at Tecnovibes Digital
+            Services Pvt. Ltd., I worked on developing and maintaining
+            responsive websites and web applications. I gained practical
+            experience with front-end technologies like HTML, CSS, JavaScript,
+            and React, as well as backend tools like PHP and MySQL. My
+            responsibilities included creating user-friendly interfaces,
+            optimizing site performance, and ensuring seamless integration
+            between the front-end and back-end systems. This internship
+            strengthened my skills in full-stack development and collaboration
+            within a professional team.
             <div className="md:grid grid-cols-2 mt-3">
               <div>
                 <a

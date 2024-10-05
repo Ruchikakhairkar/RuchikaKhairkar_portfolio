@@ -69,7 +69,7 @@ const Footer = ({ theme }) => {
                 </li>
                 <li className="flex items-center">
                   <i className="mr-2 fas fa-envelope"></i>
-                  <p>Email - khairkarruchika2@gmail.com</p>
+                  <p>Email - ruchika.kh18@gmail.com</p>
                 </li>
                 <li className="flex items-center">
                   <i className="mr-2 fas fa-phone"></i>
