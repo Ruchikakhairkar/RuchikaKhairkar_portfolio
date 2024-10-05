@@ -22,7 +22,7 @@ const Hero = ({ theme }) => {
             business? Let's shake hands with me.
           </p>
 
-          <div className="mt-4 md:flex text-center md:space-x-3">
+          <div className="mt-6 md:flex text-center md:space-x-3">
             <div>
               <a
                 href="whatsapp://send?phone=917038899286&text=Hi%20Ruchika%20Khairkar%2C%20We%27re%20looking%20for%20a%20web%20developer%20to%20join%20our%20team.%20If%20you%27re%20passionate%20about%20building%20awesome%20websites%2C%20we%27d%20love%20to%20hear%20from%20you!"
