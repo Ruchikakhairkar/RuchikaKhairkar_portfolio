@@ -11,7 +11,7 @@ const Hero = ({ theme }) => {
   return (
     <div id="hero" style={heroStyle}>
       <div className="md:grid grid-cols-2 ">
-        <div className="flex md:mt-0 justify-center md:items-start items-center flex-col mx-5 md:mx-48  animate-slideIn">
+        <div className="flex md:mt-0 justify-center md:items-start items-center flex-col mx-5 md:mx-48 pt-10 animate-slideIn">
           <h1 className="text-4xl">Hey,</h1>
           <h2 className="text-3xl font-semibold">I'm Ruchika Khairkar</h2>
           <h2 className="text-2xl font-semibold">

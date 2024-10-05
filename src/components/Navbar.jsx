@@ -92,7 +92,7 @@ const Navbar = ({ toggleTheme, theme }) => {
 
         <div
           className="flex"
-          style={{ position: "absolute", top: "10px", right: "10px" }}
+          style={{ position: "absolute", top: "", right: "10px" }}
         >
           <button onClick={toggleTheme} className="mr-2 md:text-lg p-2">
             <FontAwesomeIcon icon={theme === "light" ? faMoon : faSun} />
