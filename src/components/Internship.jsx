@@ -16,16 +16,15 @@ const Internship = () => {
             />
           </div>
           <div className="justify-self-auto">
-            During my 6-month web developer internship at Tecnovibes Digital
-            Services Pvt. Ltd., I worked on developing and maintaining
-            responsive websites and web applications. I gained practical
-            experience with front-end technologies like HTML, CSS, JavaScript,
-            and React, as well as backend tools like PHP and MySQL. My
-            responsibilities included creating user-friendly interfaces,
-            optimizing site performance, and ensuring seamless integration
-            between the front-end and back-end systems. This internship
-            strengthened my skills in full-stack development and collaboration
-            within a professional team.
+            During my web developer internship at Tecnovibes Digital Services
+            Pvt. Ltd., I worked on developing and maintaining responsive
+            websites and web applications. I gained practical experience with
+            front-end technologies like HTML, CSS, JavaScript, and React, as
+            well as backend tools like PHP and MySQL. My responsibilities
+            included creating user-friendly interfaces, optimizing site
+            performance, and ensuring seamless integration between the front-end
+            and back-end systems. This internship strengthened my skills in
+            full-stack development and collaboration within a professional team.
             <div className="md:grid grid-cols-2 mt-3">
               <div>
                 <a

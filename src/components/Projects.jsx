@@ -87,6 +87,36 @@ const Projects = () => {
               </li>
             </ul>
           </li>
+          <li className="text-2xl my-2 text-start md:mr-0">
+            <span className="font-semibold ">Job Portal Web Application</span>
+            <ul className="pl-5">
+              <li className="text-xl">
+                <span className="font-semibold">Description:</span> Developed a
+                dynamic job portal platform to streamline the job search
+                experience for users. Implemented a responsive frontend using
+                React, with key components including a search bar, job listings,
+                and detailed job cards to display critical job information such
+                as title, company, job type, location, and posting date.
+                Integrated a PHP backend to handle job data retrieval from a
+                MySQL database, enabling users to filter jobs by criteria like
+                role, location, experience level, and job type. Utilized Axios
+                for API requests, managed state efficiently with React hooks,
+                and ensured cross-origin compatibility with CORS headers.
+              </li>
+              <li className="text-xl">
+                <span className="font-semibold">Technologies:</span> React, PHP,
+                MySQL, Axios, HTML, CSS, JavaScript
+              </li>
+              {/* <li className="text-xl">
+                <a
+                  href="https://registration-form-drab.vercel.app/"
+                  className="font-semibold text-blue-600 hover:underline ml-1"
+                >
+                  View Project
+                </a>
+              </li> */}
+            </ul>
+          </li>
         </ul>
       </div>
     </section>
