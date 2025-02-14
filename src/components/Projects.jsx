@@ -8,7 +8,7 @@ const Projects = () => {
           PROJECTS
         </h2>
         <ul className="list-disc">
-          <li className="text-2xl my-2 text-start md:mr-0">
+          {/* <li className="text-2xl my-2 text-start md:mr-0">
             <span className="font-semibold ">Admin Panel Management</span>,
             Handle data coming to backend panel
             <ul className=" pl-5">
@@ -23,14 +23,57 @@ const Projects = () => {
                 <span className="font-semibold">Technologies:</span> HTML, CSS,
                 JavaScript, Bootstrap, MySQL, PHP
               </li>
-              {/* <li className="text-xl">
+              </li> 
+            </ul>
+          </li> */}
+          <li className="text-2xl my-2 text-start md:mr-0">
+            <span className="font-semibold">Sidhhi Opticals</span>
+            <ul className="pl-5">
+              <li className="text-xl">
+                <span className="font-semibold">Description:</span> The Siddhi
+                Opticals Admin Panel is a web application built using React for
+                the frontend, designed for administrators to efficiently manage
+                the optical business. It features full CRUD (Create, Read,
+                Update, Delete) functionality, allowing admins to place new
+                orders, generate bills, manage stock items (frames and lenses),
+                and handle doctor information seamlessly, all within a
+                responsive and interactive user interface.
+              </li>
+              <li className="text-xl">
+                <span className="font-semibold">Technologies:</span>HTML, CSS,
+                JavaScript, Tailwind CSS and React .
+              </li>
+              <li className="text-xl">
                 <a
-                  href="" // Replace with your actual project link
+                  href="https://youtu.be/h9iLKGEL22c"
                   className="font-semibold text-blue-600 hover:underline ml-1"
                 >
                   View Project
                 </a>
-              </li> */}
+              </li>
+            </ul>
+          </li>
+          <li className="text-2xl my-2 text-start md:mr-0">
+            <span className="font-semibold">The Dentine</span>
+            <ul className="pl-5">
+              <li className="text-xl">
+                <span className="font-semibold">Description:</span> Dentine is
+                an online platform designed for virtual dental consultations.
+                This project focuses on creating an intuitive and visually
+                appealing user interface that enhances the user experience.
+              </li>
+              <li className="text-xl">
+                <span className="font-semibold">Technologies:</span>HTML, CSS,
+                JavaScript, Tailwind CSS and React.
+              </li>
+              <li className="text-xl">
+                <a
+                  href="https://dentine.codeseed.in/"
+                  className="font-semibold text-blue-600 hover:underline ml-1"
+                >
+                  View Project
+                </a>
+              </li>
             </ul>
           </li>
           <li className="text-2xl my-2 text-start md:mr-0">
@@ -61,7 +104,7 @@ const Projects = () => {
               </li>
             </ul>
           </li>
-          <li className="text-2xl my-2 text-start md:mr-0">
+          {/* <li className="text-2xl my-2 text-start md:mr-0">
             <span className="font-semibold ">
               Registration Form with jQuery Validation
             </span>
@@ -86,8 +129,8 @@ const Projects = () => {
                 </a>
               </li>
             </ul>
-          </li>
-          <li className="text-2xl my-2 text-start md:mr-0">
+          </li> */}
+          {/* <li className="text-2xl my-2 text-start md:mr-0">
             <span className="font-semibold ">Job Portal Web Application</span>
             <ul className="pl-5">
               <li className="text-xl">
@@ -107,16 +150,8 @@ const Projects = () => {
                 <span className="font-semibold">Technologies:</span> React, PHP,
                 MySQL, Axios, HTML, CSS, JavaScript
               </li>
-              {/* <li className="text-xl">
-                <a
-                  href="https://registration-form-drab.vercel.app/"
-                  className="font-semibold text-blue-600 hover:underline ml-1"
-                >
-                  View Project
-                </a>
-              </li> */}
             </ul>
-          </li>
+          </li> */}
         </ul>
       </div>
     </section>
