@@ -96,7 +96,7 @@ const Projects = () => {
               </li>
               <li className="text-xl">
                 <a
-                  href="https://vercel.com/ruchika-khairkars-projects/ruchika-khairkar-portfolio-jd9s"
+                  href="https://ruchika-khairkar-portfolio-jd9s.vercel.app/"
                   className="font-semibold text-blue-600 hover:underline ml-1"
                 >
                   View Project
